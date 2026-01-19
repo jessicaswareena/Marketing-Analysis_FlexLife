@@ -47,56 +47,59 @@ This immediately points the organization away from “buy more traffic” and to
 
 Below is the overview page from PowerBI dashboard. The entire interactive dashboard can be downloaded here.
 
----
 ## Insights Deep Dive
 **Funnel Drop-Off & Checkout Friction**
 Understanding where potential customers fall out of the funnel requires tracking movement through three key stages:
-1.	**Product view**
-2.	**Add to cart**
-3.	**Completed purchase**
+     1.	**Product view**
+     2.	**Add to cart**
+     3.	**Completed purchase**
 Critical drop off metrics:
-   •	**Product → cart drop: 15.92%**.
+     •	**Product → cart drop: 15.92%**.
 •	This reflects typical browsing behavior as users explore options.
-   •	**Cart → purchase drop: 94.51% abandonment.**
+     •	**Cart → purchase drop: 94.51% abandonment.**
 •	Only 5.49% of cart sessions result in an order.
 
 Patterns:
+
 •	Users are willing to discover products and add them to cart, indicating effective merchandising and reasonable product interest.
+
 •	The overwhelming loss occurs after items are already in the cart, pointing to issues at checkout rather than at discovery or selection.
+
 •	This extreme drop off is relatively consistent across traffic sources, suggesting a system wide checkout problem rather than one isolated to a single channel.
 
 Likely drivers include complex forms, unexpected fees, confusing shipping options, limited payment methods, or insufficient trust and reassurance at the payment step.
-
----
-
 ## 📈 Channel Performance & Traffic Quality
 
 The next part of the analysis evaluates whether some channels are fundamentally weaker or if the problem is uniform.
 Key findings:
+
 •	**Conversion rates by channel** cluster in a narrow range around **1.4%–1.6%**, including Organic, Adwords, Email, Facebook, and YouTube.
+
 •	The **gap between purchase intent and completed conversions** is about **2.61 percentage points** and appears consistently across channels.
+
 •	**Time to conversion** differs:
       •	**Adwords and Email** sessions convert more slowly (around **62–63 minutes**) but bring higher order values.
       •	**Organic** sessions convert faster (around **23 minutes**) but with slightly lower average revenue per order.
+      
 Implications:
+
 •	No major channel shows signs of fundamentally poor traffic quality.
+
 •	The main problems arise after acquisition, when users have already decided to engage seriously with the product.
+
 •	Paid channels are not failing; they are being undermined by issues later in the funnel when visitors attempt to complete their purchase.
+
 This shifts focus from channel by channel blame to fixing shared downstream issues.
-
----
-
 ## 💵 Revenue Efficiency & Channel Monetization
-
 Beyond conversion percentages, the analysis examines how each channel contributes to revenue and where upside remains.
 Highlights:
 •	**Revenue concentration:**
-•	**Email** contributes roughly **$3,161.**
-•	**Adwords** contributes about **$2,002.**
-•	Facebook, YouTube, and Organic together generate a significantly smaller share of total revenue.
+    •	**Email** contributes roughly **$3,161.**
+    •	**Adwords** contributes about **$2,002.**
+    •	Facebook, YouTube, and Organic together generate a significantly smaller share of total revenue.
 •	**Revenue per session:**
-•	**Organic** leads at around **$0.18** per visit, even though it is not the top revenue driver by volume.
-•	Site wide, the average is approximately **$0.15** per visit.
+    •	**Organic** leads at around **$0.18** per visit, even though it is not the top revenue driver by volume.
+    •	Site wide, the average is approximately **$0.15** per visit.
 Conclusions:
 •	The business relies heavily on **Email** and **Adwords** for revenue.
 •	Channels like **Organic** and **YouTube** present under used opportunities, with decent intent and conversion but relatively low monetization.
