@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/jessicaswareena/Marketing-Analysis_FlexLife/blob/e081e7f0bd87f9de0dae68bbcf05f73b9c0abc2a/FlexLife-Logo.png" width="700">
+  <img src="https://github.com/jessicaswareena/Marketing-Analysis_FlexLife/blob/e081e7f0bd87f9de0dae68bbcf05f73b9c0abc2a/FlexLife-Logo.png" width="200">
 </p>
 
 # Marketing Conversion Funnel & Revenue Optimization Analysis  
