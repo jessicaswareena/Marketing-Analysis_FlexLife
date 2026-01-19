@@ -48,7 +48,7 @@ At the highest level, the analysis shows a business with **enough traffic but in
 
 This immediately points the organization away from “buy more traffic” and toward improving how existing visitors are handled.
 
-The entire interactive dashboard can be downloaded here.
+The entire interactive dashboard can be downloaded here.![Dashboard preview](
 
  ## Insights Deep Dive
 ### Funnel Drop-Off & Checkout Friction
