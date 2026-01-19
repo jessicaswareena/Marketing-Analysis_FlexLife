@@ -21,7 +21,7 @@ This analysis is designed for stakeholders who need to quickly understand:
 ## 🌐 Key Insights & Analysis Focs area
 The work is organized around four core questions that shaped the metrics, visuals, and recommendations:
 
-•	Funnel health: How well do sessions move from visit to intent to purchase?
+•	Funnel health: How well do sessions move from visit → intent → purchase?
 
 •	Drop off points: At which stage- product view, cart, or checkout- is the largest loss of potential revenue?
 
@@ -36,7 +36,7 @@ FlexLife's datastructure as seen below consists of four tables:Events,Users,Orde
 ![image alt](https://github.com/jessicaswareena/Marketing-Analysis_FlexLife/blob/7e506929609bf70ba187ceda62902f6899dd4ac6/ER%20Diagram.jpeg)
 ## 📊 Executive Summary
 ![image alt](https://github.com/jessicaswareena/Marketing-Analysis_FlexLife/blob/c2219d24490a05136fcc0351b9c30bf8168d0e73/ExecutiveOverview.png)
-###OverView of Findings
+### OverView of Findings
 
 •	Out of every 100 sessions, around 4 take a clear step toward buying (add to cart or begin checkout).
 
@@ -49,7 +49,7 @@ This immediately points the organization away from “buy more traffic” and to
 Below is the overview page from PowerBI dashboard. The entire interactive dashboard can be downloaded here.
 
 ## Insights Deep Dive
-###Funnel Drop-Off & Checkout Friction
+### Funnel Drop-Off & Checkout Friction
 ![image alt](https://github.com/jessicaswareena/Marketing-Analysis_FlexLife/blob/f0adcebcd9009f8199fdc520b3ab3a83d4cdd81e/FunnelAnalysis.png)
 Understanding where potential customers fall out of the funnel requires tracking movement through three key stages:
 
@@ -82,7 +82,7 @@ Likely drivers include complex forms, unexpected fees, confusing shipping option
 ![image alt](https://github.com/jessicaswareena/Marketing-Analysis_FlexLife/blob/74fbc1370bc80e637c3638e303519ceae8d039f2/ChannelOptimization.png)
 The next part of the analysis evaluates whether some channels are fundamentally weaker or if the problem is uniform.
 
-Key findings:
+### Key findings:
 
 •	**Conversion rates by channel** cluster in a narrow range around **1.4%–1.6%**, including Organic, Adwords, Email, Facebook, and YouTube.
 
@@ -90,9 +90,9 @@ Key findings:
 
 •	**Time to conversion** differs:
 
-      •	**Adwords and Email** sessions convert more slowly (around **62–63 minutes**) but bring higher order values.
+      » Adwords and Email sessions convert more slowly (around 62–63 minutes) but bring higher order values.
       
-      •	**Organic** sessions convert faster (around **23 minutes**) but with slightly lower average revenue per order.
+      	Organic sessions convert faster (around 23 minutes) but with slightly lower average revenue per order.
       
 Implications:
 
