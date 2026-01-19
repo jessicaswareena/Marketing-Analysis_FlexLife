@@ -63,9 +63,11 @@ Understanding where potential customers fall out of the funnel requires tracking
      
 Critical drop off metrics:
 
-     •	**Product → cart drop: 15.92%** : This reflects typical browsing behavior as users explore options.
+     •	Product → cart drop: 15.92% 
+        » This reflects typical browsing behavior as users explore options.
 
-    ** •	Cart → purchase drop: 94.51%** abandonment: Only 5.49% of cart sessions result in an order.
+     •	Cart → purchase drop: 94.51% abandonment
+         » Only 5.49%of cart sessions result in an order.
 
 ###Patterns:
 
