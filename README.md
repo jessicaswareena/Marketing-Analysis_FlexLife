@@ -21,9 +21,9 @@ This analysis is designed for stakeholders who need to quickly understand:
 ## 🌐 Key Insights & Analysis Focs area
 The work is organized around four core questions that shaped the metrics, visuals, and recommendations:
 
-•	Funnel health: How well do sessions move from visit → intent → purchase?
+•	Funnel health: How well do sessions move from visit to intent to purchase?
 
-•	Drop off points: At which stage—product view, cart, or checkout—is the largest loss of potential revenue?
+•	Drop off points: At which stage- product view, cart, or checkout- is the largest loss of potential revenue?
 
 •	Channel quality: Are some traffic sources fundamentally weaker, or is performance broadly consistent across channels?
 
@@ -36,7 +36,7 @@ FlexLife's datastructure as seen below consists of four tables:Events,Users,Orde
 ![image alt](https://github.com/jessicaswareena/Marketing-Analysis_FlexLife/blob/7e506929609bf70ba187ceda62902f6899dd4ac6/ER%20Diagram.jpeg)
 ## 📊 Executive Summary
 ![image alt](https://github.com/jessicaswareena/Marketing-Analysis_FlexLife/blob/c2219d24490a05136fcc0351b9c30bf8168d0e73/ExecutiveOverview.png)
-**OverView of Findings**
+###OverView of Findings
 
 •	Out of every 100 sessions, around 4 take a clear step toward buying (add to cart or begin checkout).
 
@@ -49,23 +49,23 @@ This immediately points the organization away from “buy more traffic” and to
 Below is the overview page from PowerBI dashboard. The entire interactive dashboard can be downloaded here.
 
 ## Insights Deep Dive
-**Funnel Drop-Off & Checkout Friction**
+###Funnel Drop-Off & Checkout Friction
 ![image alt](https://github.com/jessicaswareena/Marketing-Analysis_FlexLife/blob/f0adcebcd9009f8199fdc520b3ab3a83d4cdd81e/FunnelAnalysis.png)
 Understanding where potential customers fall out of the funnel requires tracking movement through three key stages:
 
-     1.	**Product view**
+     1.	Product view
      
-     2.	**Add to cart**
+     2.	Add to cart
      
-     3.	**Completed purchase**
+     3.	Completed purchase
      
 Critical drop off metrics:
 
-     •	**Product → cart drop: 15.92%**.
+     •	Product → cart drop: 15.92%.
      
 •	This reflects typical browsing behavior as users explore options.
 
-     •	**Cart → purchase drop: 94.51% abandonment.**
+     •	Cart → purchase drop: 94.51% abandonment.
      
 •	Only 5.49% of cart sessions result in an order.
 
