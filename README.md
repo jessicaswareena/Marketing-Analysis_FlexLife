@@ -37,6 +37,7 @@ FlexLife's datastructure as seen below consists of four tables:Events,Users,Orde
 ## 📊 Executive Summary
 ![image alt](https://github.com/jessicaswareena/Marketing-Analysis_FlexLife/blob/c2219d24490a05136fcc0351b9c30bf8168d0e73/ExecutiveOverview.png)
 **OverView of Findings**
+
 •	Out of every 100 sessions, around 4 take a clear step toward buying (add to cart or begin checkout).
 
 •	Only 1–2 of those sessions end with a completed purchase, meaning about three quarters of high intent sessions are lost before revenue is captured.
@@ -49,14 +50,23 @@ Below is the overview page from PowerBI dashboard. The entire interactive dashbo
 
 ## Insights Deep Dive
 **Funnel Drop-Off & Checkout Friction**
+![image alt](https://github.com/jessicaswareena/Marketing-Analysis_FlexLife/blob/74fbc1370bc80e637c3638e303519ceae8d039f2/Funnel%20Analysis.png)
 Understanding where potential customers fall out of the funnel requires tracking movement through three key stages:
+
      1.	**Product view**
+     
      2.	**Add to cart**
+     
      3.	**Completed purchase**
+     
 Critical drop off metrics:
+
      •	**Product → cart drop: 15.92%**.
+     
 •	This reflects typical browsing behavior as users explore options.
+
      •	**Cart → purchase drop: 94.51% abandonment.**
+     
 •	Only 5.49% of cart sessions result in an order.
 
 Patterns:
@@ -69,8 +79,9 @@ Patterns:
 
 Likely drivers include complex forms, unexpected fees, confusing shipping options, limited payment methods, or insufficient trust and reassurance at the payment step.
 ## 📈 Channel Performance & Traffic Quality
-
+![image alt](https://github.com/jessicaswareena/Marketing-Analysis_FlexLife/blob/74fbc1370bc80e637c3638e303519ceae8d039f2/ChannelOptimization.png)
 The next part of the analysis evaluates whether some channels are fundamentally weaker or if the problem is uniform.
+
 Key findings:
 
 •	**Conversion rates by channel** cluster in a narrow range around **1.4%–1.6%**, including Organic, Adwords, Email, Facebook, and YouTube.
@@ -78,7 +89,9 @@ Key findings:
 •	The **gap between purchase intent and completed conversions** is about **2.61 percentage points** and appears consistently across channels.
 
 •	**Time to conversion** differs:
+
       •	**Adwords and Email** sessions convert more slowly (around **62–63 minutes**) but bring higher order values.
+      
       •	**Organic** sessions convert faster (around **23 minutes**) but with slightly lower average revenue per order.
       
 Implications:
@@ -92,104 +105,161 @@ Implications:
 This shifts focus from channel by channel blame to fixing shared downstream issues.
 ## 💵 Revenue Efficiency & Channel Monetization
 Beyond conversion percentages, the analysis examines how each channel contributes to revenue and where upside remains.
-Highlights:
-•	**Revenue concentration:**
-    •	**Email** contributes roughly **$3,161.**
-    •	**Adwords** contributes about **$2,002.**
-    •	Facebook, YouTube, and Organic together generate a significantly smaller share of total revenue.
-•	**Revenue per session:**
-    •	**Organic** leads at around **$0.18** per visit, even though it is not the top revenue driver by volume.
-    •	Site wide, the average is approximately **$0.15** per visit.
-Conclusions:
-•	The business relies heavily on **Email** and **Adwords** for revenue.
-•	Channels like **Organic** and **YouTube** present under used opportunities, with decent intent and conversion but relatively low monetization.
-•	Faster converting sessions (especially Organic) are strong candidates for **bundles, upsells, and cross sells** that increase order value without increasing acquisition cost.
-This framing helps Growth and Product teams see where incremental design and merchandising work could grow revenue.
 
----
+Highlights:
+
+•	**Revenue concentration:**
+
+    •	**Email** contributes roughly **$3,161.**
+    
+    •	**Adwords** contributes about **$2,002.**
+    
+    •	Facebook, YouTube, and Organic together generate a significantly smaller share of total revenue.
+    
+•	**Revenue per session:**
+
+    •	**Organic** leads at around **$0.18** per visit, even though it is not the top revenue driver by volume.
+    
+    •	Site wide, the average is approximately **$0.15** per visit.
+    
+Conclusions:
+
+•	The business relies heavily on **Email** and **Adwords** for revenue.
+
+•	Channels like **Organic** and **YouTube** present under used opportunities, with decent intent and conversion but relatively low monetization.
+
+•	Faster converting sessions (especially Organic) are strong candidates for **bundles, upsells, and cross sells** that increase order value without increasing acquisition cost.
+
+This framing helps Growth and Product teams see where incremental design and merchandising work could grow revenue.
 ## 🧠 Key Insights
 
 Across the funnel and channel analysis, several core insights emerge:
+
 •	**Traffic is sufficient; conversion is the constraint.**
+
 •	**Intent far exceeds actual purchases: 4.14%** of sessions show strong intent, yet only 1.54% convert.
+
 •	**Checkout is the primary leak:** over **94%** of cart sessions fail to become orders, with a cart conversion rate of only **5.49%.**
+
 •	**Traffic quality is generally healthy:** channels sit in a narrow band of **1.4–1.6%** conversion and share a similar intent–conversion gap.
+
 •	**Revenue is unevenly distributed:** Email and Adwords carry most revenue, while faster converting Organic traffic is not fully monetized.
+
 These insights form the backbone of the project and guide the recommended actions.
-
----
-
 ## ✅ Recommendations
 The following actions are prioritized by potential revenue impact and practicality.
+
 ###1. Focus on checkout experience
+
 Reasoning: The **94.51%** cart to purchase drop makes checkout the single largest revenue lever.
+
 Suggested initiatives:
+
 •	Reduce steps and fields in the checkout flow to minimize friction.
+
 •	Provide clear **pricing transparency** for shipping, taxes, and fees early in the process.
+
 •	Strengthen **trust signals** through visible security badges, reviews, and straightforward return policies.
+
 •	Allow **guest checkout** and support modern payment methods (wallets, saved cards) to reduce effort for new and returning users.
+
 Even a modest increase in cart conversion yields a meaningful lift in revenue given current traffic.
 
 ###2. Hold acquisition budgets steady while fixing conversion
+
 Reasoning: Scaling traffic into a highly lossy checkout compounds wasted marketing spend.
+
 Actions:
+
 •	Maintain current acquisition levels while UX and Product focus on improving completion rates.
+
 •	Use the existing volume to run **targeted experiments** rather than increasing spend.
+
 •	Report improvements in conversion and revenue per visit to inform when it becomes efficient to scale traffic again.
+
 ###3. Enhance experiences for Email and Adwords traffic
+
 Reasoning: These channels already generate most revenue, so improvements here deliver amplified returns.
+
 Ideas:
+
 •	Align landing experiences tightly with ad and email promises to reduce confusion and hesitation.
+
 •	Provide explicit reassurance and social proof on high intent landing pages used by paid traffic.
+
 •	Implement structured **cart abandonment sequences** (email or retargeting) with tailored incentives based on cart value or product category.
+
 ###4. Increase monetization of Organic traffic
+
 Reasoning: Organic visitors convert quickly and show strong revenue per session but have unrealized order value potential.
+
 Ideas:
+
 •	Introduce curated **bundles** and “complete the look” modules on key product and category pages.
+
 •	Implement context aware **cross sell** recommendations in cart and during browse.
+
 •	Test **promotion placement and timing** for Organic visitors to find the balance between relevance and distraction.
-
----
-
 ## 🔎 What I'do next with more data
 Several additional analyses become possible with more complete tracking and marketing data:
+
 •	**User level journey evaluation**
+
      •	Distinguish new from returning customers and understand how behavior and conversion 
         change over time.
+        
      •	Estimate how many sessions typical customers require before first purchase and between 
         repeat purchases.
+        
 •	**Marketing cost and profitability analysis**
+
     •	Combine funnel metrics with channel spend to compute ROAS and CPA.
+    
     •	Recommend budget shifts toward channels with the best profit contribution, not just top 
       line revenue.
+      
 •	**Checkout step diagnostics**
+
     •	Track granular events such as shipping selection, payment attempt, and error messages.
+    
     •	Pinpoint the specific steps with the highest combination of drop off and revenue 
       potential.
+      
 •	**Experiment design and uplift measurement**
+
     •	Run A/B tests on form design, payment options, messaging, and offers.
+    
     •	Quantify conversion uplift and translate improvements into projected revenue impact.
+    
 **•	Scenario based revenue forecasting**
+
     •	Model outcomes such as reducing cart to purchase drop from 94.51% to 90% or increasing 
       overall conversion from 1.54% to 2.0%.
+      
     •	Communicate these scenarios to leadership as part of planning and resource allocation.
-    
----
 ## 🧱 Data foundation & assumptions
 The analysis uses **session level** web analytics data over a defined time period:
+
     •	Each row represents one session on the site.
+    
     •	Key events include product views, add to cart, checkout initiation, and purchase.
+    
     •	Main traffic sources: Email, Adwords, Organic, Facebook, and YouTube.
     
 Important assumptions and caveats:
+
     •	No reliable cross session **user identifiers**, so behavior is evaluated at the session 
       level rather than per customer.
+      
     •	Channel attribution follows a **time based last touch** approach, which may under value 
       earlier discovery interactions.
+      
     •	Revenue is tied only to **completed orders**; sessions with purchase events but missing 
       order records are excluded from revenue metrics.
+      
     •	Findings reflect the analyzed period; the same framework can be rerun as campaigns and 
       UX evolve.
+      
 These constraints are documented so that decisions are made with a realistic understanding of what the data can and cannot say.
 
 
