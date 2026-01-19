@@ -1,3 +1,4 @@
+![image alt](image_url)
 # Marketing-Analysis_FlexLife
 Marketing Conversion Funnel &amp; Optimization Analysis
 
