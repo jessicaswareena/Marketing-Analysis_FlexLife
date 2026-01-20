@@ -198,6 +198,21 @@ Ideas:
 •	Implement context aware **cross sell** recommendations in cart and during browse.
 
 •	Test **promotion placement and timing** for Organic visitors to find the balance between relevance and distraction.
+
+### 5. 5.	Use AI Driven Personalization at Checkout
+
+Reasoning: Purchase intent is high but cart to purchase abandonment remains extreme, so the biggest gains come from reducing friction and doubt in the final steps of the funnel.
+
+Ideas:
+
+•	Use generative models to spot common cart patterns and predict what hesitant customers are likely missing (e.g., size, style, or price reassurance).
+
+•	Surface dynamic “complete the look” or bundle suggestions directly in the cart to increase value without sending users back to browse.
+
+•	Generate context aware checkout messages (sizing tips, return policy highlights, social proof) tailored to what’s in the cart.
+
+•	Adjust recommendations and tone by traffic source so Organic, Email, and Paid users each get guidance that matches how they typically decide.
+
 ## 🔎 What I'do next with more data
 Several additional analyses become possible with more complete tracking and marketing data:
 
