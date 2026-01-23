@@ -258,6 +258,7 @@ Several additional analyses become possible with more complete tracking and mark
     •	Communicate these scenarios to leadership as part of planning and resource allocation.
 <h2 align="center"> 🧱 Data foundation & assumptions </h2>   
 Important assumptions and caveats:
+
     • The analysis uses session level web analytics data over a defined time period due to 
       missing user identifiers.
 
